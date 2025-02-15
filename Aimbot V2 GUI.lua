@@ -291,7 +291,7 @@ FunctionsSection:AddButton({
 })
 
 FunctionsSection:AddButton({
-	Name = "More Scripts",
+	Name = "Copy Website",
 	Callback = function()
 		setclipboard("https://pastebin.com/u/Panchazodiff")
 	end
