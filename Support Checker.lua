@@ -1,6 +1,6 @@
 --// Variables
 
-local Title = "Exunys Developer"
+local Title = "hi"
 local StarterGui = game:GetService("StarterGui")
 
 --// Functions
