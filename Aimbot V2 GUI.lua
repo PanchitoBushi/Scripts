@@ -27,7 +27,7 @@ local MainFrame = Library:CreateWindow({
 	Name = "Aimbot Samurai(武士)",
 	Themeable = {
 		Image = "7059346386",
-		Info = "Banzai",
+		Info = "Universal Aimbot",
 		Credit = false
 	},
 	Background = "",
