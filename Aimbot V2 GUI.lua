@@ -1,4 +1,4 @@
---// Cache
+--// This script is ON BETA , a lot of errors to be fixed 2/3/25
 
 local loadstring, game, getgenv, setclipboard = loadstring, game, getgenv, setclipboard
 
