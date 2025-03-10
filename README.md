@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CAB640&width=435&lines=Remember+%2C+Kysrn+ON+TOP)](https://git.io/typing-svg)
-
-<img align="left" src="https://en.wikipedia.org/wiki/Samurai#/media/File:Sagami_Jiro_and_Taira_no_Masakado_Attacking_an_Opponent_on_Horseback_LACMA_M.84.31.433.jpg" width="147"/> 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4CD48&width=435&lines=Kysrn+on+top+%5B%E6%AD%A6%E5%A3%AB%5D;%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%81%AF%E5%BF%85%E3%81%9A%E5%8B%9D%E3%81%A4)](https://git.io/typing-svg)
 ```csharp
 
 dc   $  @.kysrn
